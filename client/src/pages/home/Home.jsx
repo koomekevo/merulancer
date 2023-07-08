@@ -151,7 +151,7 @@ function Home() {
         <div className="container">
           <div className="item">
             <h1>
-              liverr <i>business</i>
+              Merulancer <i>business</i>
             </h1>
             <h1>
               A business solution designed for <i>teams</i>
@@ -174,11 +174,11 @@ function Home() {
               <img src="./img/check.png" alt="" />
               Manage teamwork and boost productivity with one powerful workspace
             </div>
-            <button>Explore Liverr Business</button>
+            <button>Explore Merulancer Business</button>
           </div>
           <div className="item">
             <img
-              src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_870,dpr_2.0/v1/attachments/generic_asset/asset/d9c17ceebda44764b591a8074a898e63-1599597624768/business-desktop-870-x2.png"
+              src="https://images.unsplash.com/photo-1622295023876-0cdf583c41f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80"
               alt=""
             />
           </div>

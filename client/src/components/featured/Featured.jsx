@@ -7,7 +7,7 @@ function Featured() {
       <div className="container">
         <div className="left">
           <h1>
-            Connecting freelancers in Kenya to remote gigs abroad.
+            Connecting freelancers in Meru to remote gigs abroad.
           </h1>
           <div className="search">
             <div className="searchInput">
